@@ -10,7 +10,6 @@ class Igrac(Agent):
 
     def postavi_parametre(self, is_dealer, broj):
         self.hand = list()
-        self.prev_actions = list()
         self.is_dealer = is_dealer
         self.broj = broj
 
