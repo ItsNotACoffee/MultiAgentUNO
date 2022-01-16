@@ -3,3 +3,5 @@ Simple multiagent system consisting of a single agent instantiated three times t
 # How to run
 1. Clone or download repository
 2. Run the agent.py file
+
+- Requires Python 3.8.10 or higher
